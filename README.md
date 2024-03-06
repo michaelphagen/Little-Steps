@@ -4,7 +4,7 @@
 
 ### What is Little Steps?
 
-Little Steps is a guide to help you take back control of your data. It is a collection of small steps that you can take to improve your privacy and security. These steps take less than 5 minutes each and are easy to follow. You can do them in any order you like, but we recommend you start with the first step and work your way down. If you are interested in taking your privacy and security to the next level, check out Big Steps, which focuses more on removing yourself from data collection ecosystems. 
+Little Steps is a guide to help you take back control of your data. It is a collection of small steps that you can take to improve your privacy and security. These steps take less than 5 minutes each and are easy to follow. You can do them in any order you like, but we recommend you start with the first step and work your way down.
 
 **YOU DO NOT NEED TO FOLLOW ALL OF THESE STEPS!**
 This is all about choice, so do what you feel comfortable with.
